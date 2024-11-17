@@ -13,6 +13,7 @@ public class FirstprojectApplication {
 		System.out.println("How are you?");
 		System.out.println("watching rajnikanth songs");
 		System.out.println("eat peanuts");
+		System.out.println("eat banana");
 	}
 
 }
