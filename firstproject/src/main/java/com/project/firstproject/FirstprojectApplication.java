@@ -14,6 +14,7 @@ public class FirstprojectApplication {
 		System.out.println("watching rajnikanth songs");
 		System.out.println("eat peanuts");
 		System.out.println("eat banana");
+		System.out.println("eat apple");
 	}
 
 }
